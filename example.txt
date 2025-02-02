@@ -9,3 +9,53 @@ to streamline the lifecycle of ML models—from development to
 deployment and maintenance. It aims to improve automation, 
 collaboration, and monitoring of ML models in production.
 
+Key Components of MLOps  
+
+MLOps integrates principles from machine learning, DevOps, and data engineering to ensure smooth model lifecycle management. The key components include:
+
+---
+
+1. Data Management  
+- Data Collection – Gathering data from various sources.  
+- Data Preprocessing – Cleaning, transforming, and normalizing data.  
+- Feature Engineering – Creating meaningful features for better model performance.  
+- Data Versioning – Tracking changes in datasets for reproducibility.  
+
+---
+
+2. Model Development  
+- Model Selection – Choosing the best ML algorithm for the task.  
+- Hyperparameter Tuning – Optimizing model parameters for better accuracy.  
+- Experiment Tracking – Logging results of different models for comparison.  
+
+---
+
+3. Model Deployment  
+- Model Packaging – Converting the model into a deployable format.  
+- Model Serving – Hosting the model through APIs or cloud services.  
+- CI/CD Pipelines – Automating testing and deployment for faster iteration.  
+
+---
+
+4. Model Monitoring & Maintenance  
+- Performance Monitoring – Tracking accuracy and response time in production.  
+- Drift Detection – Identifying changes in data distribution that affect performance.  
+- Logging & Alerting – Generating alerts for anomalies or failures.  
+
+---
+
+5. Automation & Orchestration  
+- Workflow Automation – Using tools like Airflow, Kubeflow, or MLflow.  
+- Infrastructure as Code (IaC) – Managing infrastructure using tools like Terraform.  
+- Containerization & Scaling – Deploying models using Docker, Kubernetes, or cloud-based solutions.  
+
+---
+
+6. Governance & Security  
+- Access Control – Ensuring only authorized users can modify models.  
+- Compliance & Auditing – Meeting regulatory standards like GDPR.  
+- Bias & Fairness Checks – Ensuring models are ethical and unbiased.  
+
+
+
+
