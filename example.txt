@@ -23,4 +23,3 @@ Thank you for your cooperation.
 Best regards,  
 IT Department  
 
-color: green;  # A manually chosen resolution
