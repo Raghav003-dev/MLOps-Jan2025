@@ -1,0 +1,11 @@
+Roll Number - G24AIT003 , Name - Raghav Patidar , batch: PGD-AI-25
+=====================================================
+Adding some info about ML-Ops Subject
+
+
+MLOps (Machine Learning Operations) is a set of practices that combines 
+machine learning (ML), DevOps, and data engineering
+to streamline the lifecycle of ML models—from development to 
+deployment and maintenance. It aims to improve automation, 
+collaboration, and monitoring of ML models in production.
+
